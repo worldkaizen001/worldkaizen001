@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ⚡ I have been working as a mobile application developer for more than 2 years building ✨Flutter applications✨
+
 🌱 I’m currently working on app performance and code resusablility.
+
 🔧 I enjoy using Stack like Flutter test, Mockito, Github action, Flutter dev tool, Mvvc, Mvc.
 
 😄 feel free to hit me up if you have any questions. Selah
