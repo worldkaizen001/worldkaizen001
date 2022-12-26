@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ I have been working as a mobile application developer for more than 2 years building ✨Flutter applications✨
+⚡ I have been working as a mobile application developer for more than 3 years building ✨Flutter applications✨
 
 🌱 I’m currently working on app performance and code resusablility.
 
