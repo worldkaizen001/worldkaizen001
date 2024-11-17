@@ -4,7 +4,7 @@
 
 🌱 I’m currently working on app performance and code resusablility.
 
-🔧 I enjoy using Stack like Flutter test, Mockito, Github action, Flutter dev tool, Mvvc, Mvc.
+🔧 I enjoy using Stack like Flutter test, Mockito, CodeMagic, Flutter dev tool, Mvvc, Mvc.
 
 😄 feel free to hit me up if you have any questions. Selah
 
