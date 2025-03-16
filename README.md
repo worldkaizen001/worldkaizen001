@@ -3,7 +3,7 @@
 I'm a Mobile Engineer with over four years of experience building high-performance, scalable mobile applications using Flutter & React Native. I have a deep understanding of cross-platform development, ensuring seamless user experiences across iOS and Android.
 
 🔹 Expertise: Mobile architecture, performance optimization, clean and reusable code, and scalable app solutions.
-🔹 Tech Stack: Flutter, React Native, Dart, TypeScript, Mockito, Codemagic, Flutter DevTools, MVVM, and MVC.
+🔹 Tech Stack: Flutter, React Native, Dart, Mockito, Codemagic, Flutter DevTools, MVVM, and MVC.
 🔹 Current Focus: Enhancing app performance, improving code reusability, and adopting best practices in mobile security.
 
 Passionate about building cutting-edge mobile applications and solving real-world problems through technology. 
