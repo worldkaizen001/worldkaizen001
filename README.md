@@ -7,7 +7,7 @@ I'm a Mobile Engineer with over four years of experience building high-performan
 🔹 Current Focus: Enhancing app performance, improving code reusability, and adopting best practices in mobile security.
 
 Passionate about building cutting-edge mobile applications and solving real-world problems through technology. 
-Always open to collaboration and knowledge sharing—let’s connect! 🚀
+Always open to collaboration and knowledge sharing—let’s connect!!🚀
 
 <!--
 **worldkaizen001/worldkaizen001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
